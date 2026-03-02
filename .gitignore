@@ -1,0 +1,6 @@
+*.docx
+*.pdf
+*.csv
+QA Swahili Dataset/
+*.pptx
+.DS_Store
